@@ -7,7 +7,7 @@ public class PalindromeCheck {
 		
 		// Reversing the string and looping across it 
 		String original = "malayalam"; 
-		String reverse = ""; 
+		String reverse = "";  
 		
 		for(int i = original.length()-1; i >= 0; i--) { 
 			reverse = reverse + original.charAt(i); 
