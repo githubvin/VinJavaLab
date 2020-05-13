@@ -4,6 +4,7 @@ public class PalindromeCheck {
 
 	public static void main(String[] args) {
 		
+		// Program is to find the given String is Palindrome or not 
 		
 		// Reversing the string and looping across it 
 		String original = "malayalam"; 

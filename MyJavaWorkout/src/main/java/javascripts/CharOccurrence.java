@@ -4,6 +4,7 @@ public class CharOccurrence {
 
 	public static void main(String[] args) {
 		
+		// The program is to find the number of occurrence of a char in the String 
 		
 		// One method is to convert to char array and looping through it 
 		String text = "You have no choice other than following me!"; 
