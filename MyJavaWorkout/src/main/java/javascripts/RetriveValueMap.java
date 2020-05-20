@@ -22,6 +22,7 @@ public class RetriveValueMap {
 		System.out.println("Simple Print: " + vMap);
 		
 		// Printing using normal for each 
+		System.out.println("\nUsing Normal for each: ");
 		for (Map.Entry<String, Integer> eachEntry : vMap.entrySet()) {
 			System.out.println(eachEntry.getKey() + "->" + eachEntry.getValue());
 		} 
